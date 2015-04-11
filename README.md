@@ -1,2 +1,2 @@
-# Git_xqf Just for test 
+# Git_xqf
 my repository 
